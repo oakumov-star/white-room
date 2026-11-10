@@ -1,0 +1,17 @@
+{
+  "name": "WHITE ROOM — личная система",
+  "short_name": "WHITE ROOM",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090b12",
+  "theme_color": "#090b12",
+  "lang": "ru",
+  "description": "Персональный трекер привычек и саморазвития",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
